@@ -1,7 +1,7 @@
 from pyrogram import filters
 from pyrogram.types import Message
 from BrandrdXMusic import app, TeraboxAPI  # Make sure to import your new TeraboxAPI
-from BrandrdXMusic.core.call import Brandrd
+from BrandrdXMusic.core.call import Champu
 from BrandrdXMusic.utils.database import is_active_chat
 from BrandrdXMusic.utils.stream.queue import put_queue
 
