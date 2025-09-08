@@ -230,21 +230,21 @@ stream_2 : "➜ <b>Sᴛᴀʀᴛᴇᴅ Sᴛʀᴇᴀᴍɪɴɢ </b>\n\n<b>‣ Sᴛ�
 stream_3 : "➜ <b>Mᴀᴅᴇ ʙʏ ‣ [⏤͟͟͞͞𓆩 𝐊ɪɴɢ ꭙ 𓆪](https://t.me/AboutBotMaker/8)"
 
 #General
-CLOSE_BUTTON  : "↻ ᴄʟᴏsᴇ ↻"
-CLOSEMENU_BUTTON  : "↻ ᴄʟᴏsᴇ ↻"
+CLOSE_BUTTON  : "↻ 𝐂ʟᴏꜱᴇ ↻"
+CLOSEMENU_BUTTON  : "↻ 𝐂ʟᴏꜱᴇ 𝐌ᴇɴᴜ ↻"
 BACK_BUTTON : "↻ ʙᴀᴄᴋ ↻"
 NEXT_PAGE: "▷"
 BACK_PAGE: "◁"
-UNBAN_BUTTON : "• ᴜɴʙᴀɴ •"
+UNBAN_BUTTON : "• 🙅 𝐔ɴʙᴀɴ •"
 
 #Lyrics
-L_B_1 : "🚀 ᴄʜᴇᴄᴋᴏᴜᴛ ʟʏʀɪᴄs ɴᴏᴡ"
+L_B_1 : "🎶 𝐂ʜᴇᴄᴋᴏᴜᴛ 𝐋ʏʀɪᴄꜱ 𝐍ᴏᴡ🚀"
 
 #PlaylistButtons
-PL_B_1 : "🌌 ᴘʟᴀʏʟɪsᴛ 🌌"
-PL_B_2 : "• ᴘʟᴀʏʟɪsᴛs •"
-PL_B_3 : "• ᴍᴇɴᴜ •"
-PL_B_4 : "🎧 ᴘʟᴀʏ ᴍᴏᴅᴇ"
+PL_B_1 : "🌌 𝐏ʟᴀʏʟɪꜱᴛ 🌌"
+PL_B_2 : "• 📂 𝐏ʟᴀʏʟɪꜱᴛꜱ •"
+PL_B_3 : "• 📋 𝐌ᴇɴᴜ •"
+PL_B_4 : "🎧 𝐏ʟᴀʏ 𝐌ᴏᴅᴇ"
 PL_B_5 : "🗑 ᴅᴇʟᴇᴛᴇ ᴡʜᴏʟᴇ ᴘʟᴀʏʟɪsᴛ"
 PL_B_6 : "🗑 ᴅᴇʟᴇᴛᴇ ᴘʟᴀʏʟɪsᴛ"
 PL_B_7 : "🥺 ʏᴇᴀʜ, ᴅᴇʟᴇᴛᴇ ɪᴛ"
